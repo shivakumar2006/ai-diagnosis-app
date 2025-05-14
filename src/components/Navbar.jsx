@@ -7,7 +7,7 @@ import user from "../image/user.avif";
 
 const Navbar = () => {
     return (
-        <div className='w-full h-18 bg-gray-200 border-b-gray-300 border-2 flex flex-row justify-between items-center gap-0 rounded-b-2xl'>
+        <div className='w-full h-20 bg-gray-200 border-b-gray-300 border-2 flex flex-row justify-between items-center gap-0 rounded-b-2xl'>
             <div className='mx-10 cursor-pointer'>
                 < SiWorldhealthorganization className='text-6xl'/>
             </div>
