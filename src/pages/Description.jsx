@@ -16,7 +16,7 @@ const Description = () => {
                 <p className='text-white text-2xl font-extralight flex justify-center items-center'>Built for individuals who want to understand their health better, one note at a time.</p>
            </div>
 
-           <div >
+           <div className='w-full h-50 border-2'>
 
            </div>
         </div>
