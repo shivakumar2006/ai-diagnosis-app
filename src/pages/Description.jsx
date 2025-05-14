@@ -2,8 +2,8 @@ import React from 'react';
 
 const Description = () => {
     return (
-        <div>
-            Description
+        <div className='w-full min-h-screen bg-gray-100'>
+           
         </div>
     )
 }
