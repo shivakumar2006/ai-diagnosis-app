@@ -39,7 +39,7 @@ const Description = () => {
 
                 <div className='w-70 h-70 rotate-45 rounded-2xl flex items-center justify-center bg-red-500/20'>
                     <div className='w-60 h-60 rotate-0 rounded-2xl flex justify-center items-center'
-                        style={{background: "linear-gradient(90deg,rgba(242, 50, 44, 1) 1%, rgba(204, 169, 245, 1) 25%, rgba(145, 187, 242, 1) 65%, rgba(73, 107, 242, 1) 99%"}}
+                        style={{background: "linear-gradient(90deg,rgba(247, 178, 176, 1) 1%, rgba(245, 182, 162, 1) 37%, rgba(169, 225, 245, 1) 65%, rgba(167, 238, 252, 1) 100%"}}
                     >
                         <p className='text-white text-4xl rotate-315 text-center'>Your health, your assistant</p>
                     </div>
