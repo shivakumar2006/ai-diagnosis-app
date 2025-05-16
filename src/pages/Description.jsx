@@ -22,7 +22,7 @@ const Description = () => {
 
            <div className='w-full h-100 flex flex-row justify-evenly items-center'>
                 <div className='w-70 h-70 rotate-45 rounded-2xl flex items-center justify-center bg-blue-300/50 shadow-2xl'>
-                    <div className='w-60 h-60 rotate-0 rounded-2xl flex justify-center items-center'
+                    <div className='w-60 h-60 rotate-0 rounded-2xl flex justify-center items-center shadow-2xl'
                         style={{background: "linear-gradient(90deg,rgba(3, 23, 51, 1) 0%, rgba(4, 38, 69, 1) 36%, rgba(3, 39, 66, 1) 65%, rgba(6, 69, 115, 1) 100%"}}
                     >
                         <p className='text-white text-4xl rotate-315 text-center'>AI-powered diagnosis tracker</p>
@@ -30,7 +30,7 @@ const Description = () => {
                 </div>
 
                 <div className='w-70 h-70 rotate-45 rounded-2xl flex items-center justify-center bg-blue-200/40 shadow-2xl'>
-                    <div className='w-60 h-60 rotate-0 rounded-2xl flex justify-center items-center'
+                    <div className='w-60 h-60 rotate-0 rounded-2xl flex justify-center items-center shadow-2xl'
                         style={{background: "linear-gradient(90deg,rgba(102, 196, 204, 1) 0%, rgba(103, 212, 219, 1) 37%, rgba(147, 216, 219, 1) 65%, rgba(186, 245, 241, 1) 100%"}}
                     >
                         <p className='text-white text-4xl rotate-315 text-center'>Write. Analyze. Understand</p>
@@ -38,7 +38,7 @@ const Description = () => {
                 </div>
 
                 <div className='w-70 h-70 rotate-45 rounded-2xl flex items-center justify-center bg-red-500/20 shadow-2xl'>
-                    <div className='w-60 h-60 rotate-0 rounded-2xl flex justify-center items-center'
+                    <div className='w-60 h-60 rotate-0 rounded-2xl flex justify-center items-center shadow-2xl'
                         style={{background: "linear-gradient(90deg,rgba(247, 178, 176, 1) 1%, rgba(245, 182, 162, 1) 37%, rgba(169, 225, 245, 1) 65%, rgba(167, 238, 252, 1) 100%"}}
                     >
                         <p className='text-white text-4xl rotate-315 text-center'>Your health, your assistant</p>
